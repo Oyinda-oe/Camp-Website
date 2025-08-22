@@ -9,6 +9,18 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        fontSize: {
+          14: '0.875rem',
+          16: '1rem',
+          18: '1.125rem',
+          20: '1.25rem',
+          24: '1.5rem',
+          32: '2rem',
+          40: '2.5rem',
+          52: '3.25rem',
+          64: '4rem',
+          88: '5.5rem',
+        },
         green: {
           50: '#30AF5B',
           90: '#292C27',
