@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 type ButtonProps = {
-    type: "button"|"submit";
+    type: "button" | "submit";
     title: string;
     icon?: string
     variant:string
